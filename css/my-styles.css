@@ -217,3 +217,11 @@ strong {
 		margin-bottom: 16px;
 	}
 }
+
+/* Carousel styles */
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
